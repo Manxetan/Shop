@@ -1,0 +1,6 @@
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.exe
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.exe
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Toha7\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\Magazin.csprojResolveAssemblyReference.cache
